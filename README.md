@@ -12,7 +12,7 @@ Data analysis project to take a look at hospitality dataset, find out interestin
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation
-For this project, I was interestested in using Hotel Demand data from 2015 to 2017 to better understand:
+For this project, I was interestested in using Hotel Demand data from July 2015 to July 2017 to better understand:
 
 1. How was the daily rate fluctuating during the whole year?
 2. Are the rate trends for different hotel types the same?
